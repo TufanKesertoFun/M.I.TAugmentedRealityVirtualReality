@@ -1,0 +1,39 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio project files
+.vs/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Mono auto generated files
+*.pidb
+*.booproj
+*.sln
+*.user
+
+# Unity Asset Store files
+[Aa]ssets/AssetStoreTools*
+
+# Exclude WebGL build folders
+webgl_sharing/
+connectwebgl.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Other generated files
+*.meta

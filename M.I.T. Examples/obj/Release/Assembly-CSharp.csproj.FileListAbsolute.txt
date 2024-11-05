@@ -1,0 +1,2 @@
+C:\Users\tufan\Downloads\M.I.T. Examples\M.I.T. Examples\obj\Release\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\tufan\Downloads\M.I.T. Examples\M.I.T. Examples\obj\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
